@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main-content{
+    width: 400px;
+    margin-top: 20px;
+}
+.main-outer{
+    justify-content: right;
+}
